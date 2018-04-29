@@ -13,4 +13,4 @@ class Note extends Component {
     }
 }
 
-export default App;
+export default THIS;
